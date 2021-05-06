@@ -1,7 +1,7 @@
 ## Article types
 
-- [Abstract](https://bdougherty-wiley.github.io/test-pages-repo/types/bcb805fc-64c9-4790-9a39-ce421e655c37.json)
-- [Announcement](https://bdougherty-wiley.github.io/test-pages-repo/types/ca436f9e-2e1e-487d-8e49-94d580e574b1.json)
+- [Abstract](https://bdougherty-wiley.github.io/article-types/types/bcb805fc-64c9-4790-9a39-ce421e655c37.json)
+- [Announcement](https://bdougherty-wiley.github.io/article-types/types/ca436f9e-2e1e-487d-8e49-94d580e574b1.json)
 - Career and Management
 - Case Study
 - Correction
