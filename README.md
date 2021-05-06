@@ -1,7 +1,7 @@
 ## Article types
 
-- Abstract [Abstract](/types/bcb805fc-64c9-4790-9a39-ce421e655c37)
-- Announcement [documentation](https://docs.github.com/categories/github-pages-basics/)
+- [Abstract](https://bdougherty-wiley.github.io/test-pages-repo/types/bcb805fc-64c9-4790-9a39-ce421e655c37.json)
+- [Announcement](https://bdougherty-wiley.github.io/test-pages-repo/types/ca436f9e-2e1e-487d-8e49-94d580e574b1.json)
 - Career and Management
 - Case Study
 - Correction
