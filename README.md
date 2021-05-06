@@ -28,4 +28,3 @@
 - Short Communication
 - Technical Note
 
-Modified: {% last_modified_at %}
