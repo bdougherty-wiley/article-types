@@ -1,0 +1,27 @@
+{
+  "id": "bcb805fc-64c9-4790-9a39-ce421e655c37"
+  "typeCode": "Abstract",
+  "description": "Abstracts published as articles, either individually, under sections, or ..",
+  "oaEligble": false,
+  "licence": false,
+  "peerReview": false,
+  "copyedit": false,
+  "correspondingAuthor": false,
+  "status": "active",
+  "created": "2020-12-23T21:02:26.918Z",
+  "createdBy": {
+    "id": "58231132-e752-4dad-8865-de58aac7e6a3",
+    "modelType": "System"
+  },
+  "modified": "2021-05-03T10:38:46.148Z",
+  "modifiedBy": {
+    "id": "58231132-e752-4dad-8865-de58aac7e6a3",
+    "modelType": "System"
+  },
+  "displayNames": [
+    "Abstract",
+    "Abstracts",
+    "Author Index",
+    "..."
+  ]
+}
