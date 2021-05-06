@@ -1,0 +1,26 @@
+{
+  "id": "ca436f9e-2e1e-487d-8e49-94d580e574b1",
+  "typeCode": "Announcement",
+  "description": "Sharing factual information or acknowledgements from the journal..",
+  "oaEligble": false,
+  "licence": false,
+  "peerReview": false,
+  "copyedit": false,
+  "correspondingAuthor": false,
+  "status": "active",
+  "created": "2020-12-23T21:02:26.918Z",
+  "createdBy": {
+    "id": "58231132-e752-4dad-8865-de58aac7e6a3",
+    "modelType": "System"
+  },
+  "modified": "2021-05-03T10:38:46.148Z",
+  "modifiedBy": {
+    "id": "58231132-e752-4dad-8865-de58aac7e6a3",
+    "modelType": "System"
+  },
+  "displayNames": [
+    "About the Authors",
+    "Aknowledgement",
+    "..."
+  ]
+}
